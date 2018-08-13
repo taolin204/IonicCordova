@@ -8,3 +8,4 @@
 8. ionic g provider Leader
 9. ionic g provider Promotion
 10. ionic g provider ProcessHttpmsg
+11. ionic g page dishdetail
