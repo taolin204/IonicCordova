@@ -9,3 +9,4 @@
 9. ionic g provider Promotion
 10. ionic g provider ProcessHttpmsg
 11. ionic g page dishdetail
+12. ionic g provider favorite
