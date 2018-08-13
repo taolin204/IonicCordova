@@ -4,3 +4,7 @@
 4. ionic g page about
 5. ionic g page menu
 6. ionic g page contact
+7. ionic g provider Dish
+8. ionic g provider Leader
+9. ionic g provider Promotion
+10. ionic g provider ProcessHttpmsg
