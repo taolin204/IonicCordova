@@ -10,3 +10,4 @@
 10. ionic g provider ProcessHttpmsg
 11. ionic g page dishdetail
 12. ionic g provider favorite
+13. ionic g page favorites
