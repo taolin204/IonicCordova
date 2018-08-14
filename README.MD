@@ -11,3 +11,5 @@
 11. ionic g page dishdetail
 12. ionic g provider favorite
 13. ionic g page favorites
+14. ionic g page reservation
+
