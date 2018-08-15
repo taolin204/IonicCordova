@@ -7,6 +7,11 @@
 <ion-header>
   <ion-navbar color="primary">
     <ion-title>Dish Details</ion-title>
+    <ion-buttons end>
+        <button ion-button icon-only (click)="presentActionSheet()">
+          <ion-icon name="more"></ion-icon>
+        </button>
+      </ion-buttons>
   </ion-navbar>
 </ion-header>
 
@@ -58,6 +63,8 @@
       </p>
     </ion-item>
   </ion-list>
+<!-- 
+  <page-comment></page-comment> -->
 
   <ion-fab bottom right [hidden]="favorite">
     <button ion-fab (click)="addToFavorites()">
@@ -69,4 +76,7 @@
       <ion-icon name="heart"></ion-icon>
     </button>
   </ion-fab>
+
+  
+  
 </ion-content>

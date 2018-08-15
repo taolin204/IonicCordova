@@ -12,4 +12,8 @@
 12. ionic g provider favorite
 13. ionic g page favorites
 14. ionic g page reservation
-
+15. ionic g page comment
+16. ionic cordova platform add android
+17. ionic cordova build android
+18. ionic cordova emulate android
+19. ionic cordova run android
