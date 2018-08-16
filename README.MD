@@ -17,3 +17,7 @@
 17. ionic cordova build android
 18. ionic cordova emulate android
 19. ionic cordova run android
+20. npm install -g ios-sim
+21. ionic cordova platform add ios
+22. ionic cordova build ios
+23. ionic cordova emulate ios
