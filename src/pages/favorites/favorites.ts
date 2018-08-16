@@ -5,6 +5,7 @@ import { FavoriteProvider } from '../../providers/favorite/favorite';
 import { Dish } from '../../shared/dish';
 import { Storage } from '@ionic/storage';
 
+
 /**
  * Generated class for the FavoritesPage page.
  *

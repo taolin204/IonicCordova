@@ -23,6 +23,7 @@ import { DishProvider } from '../providers/dish/dish';
 import { LeaderProvider } from '../providers/leader/leader';
 import { PromotionProvider } from '../providers/promotion/promotion';
 import { ProcessHttpmsgProvider } from '../providers/process-httpmsg/process-httpmsg';
+import { LocalNotifications } from '@ionic-native/local-notifications';
 
 import { baseURL } from '../shared/baseurl';
 import { FavoriteProvider } from '../providers/favorite/favorite';
@@ -68,7 +69,8 @@ import { FavoriteProvider } from '../providers/favorite/favorite';
     LeaderProvider,
     PromotionProvider,
     ProcessHttpmsgProvider,
-    FavoriteProvider
+    FavoriteProvider,
+    LocalNotifications
   ]
 })
 export class AppModule { }
