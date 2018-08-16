@@ -21,3 +21,4 @@
 21. ionic cordova platform add ios
 22. ionic cordova build ios
 23. ionic cordova emulate ios
+24. ionic cordova resources
