@@ -25,3 +25,5 @@
 25. ionic cordova plugin add de.appplant.cordova.plugin.local-notification
 26. npm install --save @ionic-native/local-notifications
 27. ionic cordova plugin add cordova-plugin-email
+28. npm install --save @ionic-native/email-composer
+
